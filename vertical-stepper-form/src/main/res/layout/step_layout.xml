@@ -83,7 +83,7 @@
             android:layout_alignTop="@id/step_subtitle"
             android:layout_alignBottom="@id/step_subtitle"
             android:layout_height="match_parent"
-            android:background="#e0e0e0"
+            android:background="@color/vertical_line_subtitle"
             android:layout_marginTop="8dp"
             android:orientation="vertical">
         </LinearLayout>
