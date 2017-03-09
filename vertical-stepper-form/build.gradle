@@ -4,20 +4,20 @@ ext {
     bintrayRepo = 'maven'
     bintrayName = 'vertical-stepper-form'
 
-    publishedGroupId = 'com.ernestoyaquello.stepperform'
+    publishedGroupId = 'com.mdonalisio.stepperform'
     libraryName = 'VerticalStepperForm'
     artifact = 'vertical-stepper-form'
 
     libraryDescription = 'A vertical stepper form for Android that follows Material Desing guidelines'
 
-    siteUrl = 'https://github.com/ernestoyaquello/vertical-stepper-form'
-    gitUrl = 'https://github.com/ernestoyaquello/vertical-stepper-form.git'
+    siteUrl = 'https://github.com/mdonalisio/vertical-stepper-form'
+    gitUrl = 'https://github.com/mdonalisio/vertical-stepper-form.git'
 
-    libraryVersion = '0.9.8'
+    libraryVersion = '0.9.9'
 
-    developerId = 'ernestoyaquello'
-    developerName = 'Julio Ernesto'
-    developerEmail = 'julioernesto90@gmail.com'
+    developerId = 'mdonalisio'
+    developerName = 'Marcos Donalisio'
+    developerEmail = 'marcosdonalisio@gmail.com'
 
     licenseName = 'The Apache Software License, Version 2.0'
     licenseUrl = 'http://www.apache.org/licenses/LICENSE-2.0.txt'
